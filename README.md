@@ -17,19 +17,19 @@
 
 <h3 align="center"> 🗂️ Highlight Projects  </h3>
 <p align="center">
-<a href="https://github.com/JareBear12418/Algorhythm">
+<a href="https://github.com/suleman-elahi/TwitterAutoReplyBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=TwitterAutoReplyBot&theme=gruvbox" alt="TwitterAutoReplyBot" />
 </a>
-<a href="https://github.com/JareBear12418/Algorhythm">
+<a href="https://github.com/suleman-elahi/Cancel_Instagram_Follow_Requests">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=Cancel_Instagram_Follow_Requests&theme=gruvbox" alt="Cancel_Instagram_Follow_Requests" />
 </a>
-<a href="https://github.com/JareBear12418/Algorhythm">
+<a href="https://github.com/suleman-elahi/Covid19Status">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=Covid19Status&theme=gruvbox" alt="Covid19Status" />
 </a>
-<a href="https://github.com/JareBear12418/Algorhythm">
+<a href="https://github.com/suleman-elahi/FollowRequestsRemover">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=FollowRequestsRemover&theme=gruvbox" alt="FollowRequestsRemover" />
 </a>
- <a href="https://github.com/JareBear12418/Algorhythm">
+ <a href="https://github.com/suleman-elahi/vs-code-flux-intense">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=vs-code-flux-intense&theme=gruvbox" alt="vs-code-flux-intense" />
 </a> 
 </p>
