@@ -47,8 +47,6 @@
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
 <code><img width="17%" src="https://matplotlib.org/3.1.0/_images/sphx_glr_logos2_003.png"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg"></code>
 
 </p>
 <h3 align="center">Tools:</h3>
