@@ -24,9 +24,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=Cancel_Instagram_Follow_Requests&theme=gruvbox" alt="Cancel_Instagram_Follow_Requests" />
 </a>
 <a href="https://github.com/JareBear12418/Algorhythm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=SimplePythonProjects/tree/master/TwitterTweetsAnalysis&theme=gruvbox" alt="TwitterTweetsAnalysis" />
-</a>
-<a href="https://github.com/JareBear12418/Algorhythm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=Covid19Status&theme=gruvbox" alt="Covid19Status" />
 </a>
 <a href="https://github.com/JareBear12418/Algorhythm">
