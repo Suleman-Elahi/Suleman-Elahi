@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />, I'm Suleman </h1>
-<h3 align="center">Passionate programmer. Check out my highlighted projects below. :smiley: </h3>
+<h3 align="center">Passionate programmer. Check out my highlights below. :smiley: </h3>
 
 <br />
 
