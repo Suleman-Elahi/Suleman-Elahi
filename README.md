@@ -17,6 +17,8 @@
 
 <h3 align="center"> 🗂️ Highlight Projects  </h3>
 <p align="center">
+  <a href="https://github.com/Suleman-Elahi/Aurin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=Aurin&theme=gruvbox" alt="Aurin" />
 <a href="https://github.com/suleman-elahi/TwitterAutoReplyBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=TwitterAutoReplyBot&theme=gruvbox" alt="TwitterAutoReplyBot" />
 </a>
