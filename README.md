@@ -22,8 +22,8 @@
 <a href="https://github.com/suleman-elahi/TwitterAutoReplyBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=TwitterAutoReplyBot&theme=gruvbox" alt="TwitterAutoReplyBot" />
 </a>
-<a href="https://github.com/suleman-elahi/Cancel_Instagram_Follow_Requests">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=Cancel_Instagram_Follow_Requests&theme=gruvbox" alt="Cancel_Instagram_Follow_Requests" />
+<a href="https://github.com/Suleman-Elahi/Cfddns">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=Cfddns&theme=gruvbox" alt="Cfddns" />
 </a>
 <a href="https://github.com/suleman-elahi/Covid19Status">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=Covid19Status&theme=gruvbox" alt="Covid19Status" />
