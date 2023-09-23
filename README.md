@@ -72,7 +72,7 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://stackoverflow.com/users/12139409" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="12139409" width="10%" /></a>
-<a href="https://instagram.com/iinmate4587" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="iinmate4587" width="10%" /></a>
+<a href="https://instagram.com/_hewhoremains" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="_hewhoremains" width="10%" /></a>
 <a href="https://discordapp.com/users/zillo#1657" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" alt="EtrSc4s" width="10%" /></a>
 <a href="https://t.me/slmnx" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg" alt="EtrSc4s" width="10%" /></a>
 </p>
