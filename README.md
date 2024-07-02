@@ -73,7 +73,7 @@
 <p align="center">
 <a href="https://stackoverflow.com/users/12139409" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="12139409" width="10%" /></a>
 <a href="https://instagram.com/_hewhoremains" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="_hewhoremains" width="10%" /></a>
-<a href="https://discordapp.com/users/zillo#1657" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" width="2.5%" /></a>
+<a href="https://discordapp.com/users/zillo#1657" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-ar21.svg" alt="Discord" width="10%" /></a>
 <a href="https://t.me/slmnx" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg" alt="Telegram" width="10%" /></a>
 <a href="mailto:suleman@12122012.xyz" target="blank"><img align="center" src="https://www.reshot.com/preview-assets/icons/YQULVS5KGD/email-us-YQULVS5KGD.svg" alt="Email" width="5%" /></a>
 </p>
