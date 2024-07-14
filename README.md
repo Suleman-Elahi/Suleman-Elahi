@@ -25,8 +25,8 @@
 <a href="https://github.com/Suleman-Elahi/Cfddns">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=Cfddns&theme=gruvbox" alt="Cfddns" />
 </a>
-<a href="https://github.com/suleman-elahi/Covid19Status">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=Covid19Status&theme=gruvbox" alt="Covid19Status" />
+<a href="https://github.com/Suleman-Elahi/WpBrokenCheck">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=WpBrokenCheck&theme=gruvbox" alt="WpBrokenCheck" />
 </a>
 <a href="https://github.com/suleman-elahi/FollowRequestsRemover">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=FollowRequestsRemover&theme=gruvbox" alt="FollowRequestsRemover" />
