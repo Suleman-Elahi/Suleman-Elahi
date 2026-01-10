@@ -5,8 +5,8 @@
 
 <h3 align="center"> &#x1f4c8; GitHub Stats: </h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=suleman-elahi&theme=gruvbox&show_icons=true" alt="suleman-elahi" width="350" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=suleman-elahi&theme=gruvbox&layout=compact" alt="suleman-elahi" width="350" height="140"/>
+<img src="https://githubreadmestatsfast.vercel.app/api?username=suleman-elahi&theme=gruvbox&show_icons=true" alt="suleman-elahi" width="350" height="140"/>
+<img src="https://githubreadmestatsfast.vercel.app/api/top-langs?username=suleman-elahi&theme=gruvbox&layout=compact" alt="suleman-elahi" width="350" height="140"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleman-elahi&theme=gruvbox" alt="suleman-elahi" width="350" height="140"/>
 </p>
 
@@ -18,21 +18,21 @@
 <h3 align="center"> 🗂️ Highlight Projects  </h3>
 <p align="center">
   <a href="https://github.com/Suleman-Elahi/Aurin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=Aurin&theme=gruvbox" alt="Aurin" />
+  <img align="center" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=suleman-elahi&repo=Aurin&theme=gruvbox" alt="Aurin" />
 <a href="https://github.com/suleman-elahi/TwitterAutoReplyBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=TwitterAutoReplyBot&theme=gruvbox" alt="TwitterAutoReplyBot" />
+  <img align="center" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=suleman-elahi&repo=TwitterAutoReplyBot&theme=gruvbox" alt="TwitterAutoReplyBot" />
 </a>
 <a href="https://github.com/Suleman-Elahi/Cfddns">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=Cfddns&theme=gruvbox" alt="Cfddns" />
+  <img align="center" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=suleman-elahi&repo=Cfddns&theme=gruvbox" alt="Cfddns" />
 </a>
 <a href="https://github.com/Suleman-Elahi/WpBrokenCheck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=WpBrokenCheck&theme=gruvbox" alt="WpBrokenCheck" />
+  <img align="center" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=suleman-elahi&repo=WpBrokenCheck&theme=gruvbox" alt="WpBrokenCheck" />
 </a>
 <a href="https://github.com/suleman-elahi/FollowRequestsRemover">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=FollowRequestsRemover&theme=gruvbox" alt="FollowRequestsRemover" />
+  <img align="center" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=suleman-elahi&repo=FollowRequestsRemover&theme=gruvbox" alt="FollowRequestsRemover" />
 </a>
  <a href="https://github.com/suleman-elahi/vs-code-flux-intense">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suleman-elahi&repo=vs-code-flux-intense&theme=gruvbox" alt="vs-code-flux-intense" />
+  <img align="center" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=suleman-elahi&repo=vs-code-flux-intense&theme=gruvbox" alt="vs-code-flux-intense" />
 </a> 
 </p>
 
